@@ -6,7 +6,7 @@
 
 // This is a basic monochrome color scheme for Stata graphics. I created it to get rid of the annoying thin lines around the axes and graphs. Right now it's painfully basic and just does that. I intend to make tweaks and update it as my needs change.
 
-* Using s2mono as the base
+* Using s2mono as the base color scheme.
 
 #include s2mono
 color background white
