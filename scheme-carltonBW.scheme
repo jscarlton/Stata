@@ -1,0 +1,12 @@
+//	Basic b&w color scheme for Stata
+//	Created by: Stuart Carlton
+//	Created on 2014-11-05
+//	Version 0.1
+//	Last updated 2014-11-05
+
+// This is a basic monochrome color scheme for Stata graphics. I created it to get rid of the annoying thin lines around the axes and graphs. Right now it's painfully basic and just does that. I intend to make tweaks and update it as my needs change.
+
+* Using s2mono as the base
+
+#include s2mono
+color background white
